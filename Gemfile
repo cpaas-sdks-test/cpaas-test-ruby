@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in karaden.gemspec
+# Specify your gem's dependencies in cpaas_test_ruby.gemspec
 gemspec

@@ -1,15 +1,15 @@
 # frozen_string_literal: true
 
-require_relative "lib/karaden/config"
+require_relative "lib/cpaas_test_ruby/config"
 
 Gem::Specification.new do |spec|
-  spec.name = "karaden-prg-ruby"
+  spec.name = "cpaas_test_ruby"
   spec.version = Karaden::Config::VERSION
-  spec.authors = ["cpaas-dev-admin-om"]
-  spec.email = ["cpaas-dev-admin-om@nttcoms.com"]
+  spec.authors = ["cpaas-sdks-test-om"]
+  spec.email = ["cpaas-sdks-test-om@nttcoms.com"]
 
-  spec.summary = "Ruby library for the Karaden API."
-  spec.homepage = "https://github.com/karaden-prg/karaden-prg-ruby"
+  spec.summary = ""
+  spec.homepage = "https://github.com/cpaas-sdks-test/cpaas-test-ruby"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0"
 
