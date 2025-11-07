@@ -19,3 +19,5 @@ jobs:
         run: bundle install
 
       - uses: rubygems/release-gem@v1
+        with:
+          attestations: false
